@@ -1,4 +1,4 @@
-<img src="https://github.com/Brian-Doucet/Brian-Doucet/blob/main/header.png?raw=true">
+<img src="https://github.com/Brian-Doucet/Brian-Doucet/blob/main/header.png?raw=true" alt="Header image">
 
 ## Connect with me
 
@@ -15,11 +15,10 @@
 <br />
 
 ## What I'm using :hammer_and_wrench:
-<img align="left" alt=Python width=40px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-
-<img align="left" alt=Postgres width=40px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
-
-<img align="left" alt=Bash width=40px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png">
+<img align="left" alt=Python title="Python 3.7" width=40px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img align="left" alt=Postgres title="PostgreSQL" width=40px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
+<img align="left" alt="Matillion" title="Matillion ELT for Redshift" width=40px src="https://software-advice.imgix.net/managed/products/logos/mat_logo.png?auto=format&w=310">
+<img align="left" alt=Bash title="Bash" width=40px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png">
 
 
 
